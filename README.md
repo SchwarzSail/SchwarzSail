@@ -9,3 +9,5 @@
 - My next big step is diving into Artificial Intelligence🤖, where I’m excited to explore the potential of it.
 
 - I'm also a member of west2-online. Welcome everyone who is fascinated by programming to join us!!!🍺
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SchwarzSail)](https://github.com/anuraghazra/github-readme-stats)
