@@ -1,6 +1,6 @@
 # Hi there!👋
 
-- I’m a undergraduate student from Fuzhou University, majoying in Computer Science.💻
+- I’m an undergraduate student from Fuzhou University, majoring in Computer Science.💻
 
 - My primary programming language is Go, and I enjoy diving deep into topics like distributed systems, consensus algorithms (like Raft), and data structures. Currently, I’m working on projects called MIT-6.5840.👨‍💻
 
