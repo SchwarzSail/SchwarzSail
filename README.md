@@ -1,13 +1,10 @@
-# Hi there!👋
+# Hi there! 👋🚀
+- I’m an undergraduate student from **Fuzhou University** 🏫, majoring in Computer Science 💻. I have a strong passion for backend development and distributed systems 🌍.
 
-- I’m an undergraduate student from Fuzhou University, majoring in Computer Science.💻
-
-- My primary programming language is Go, and I enjoy diving deep into topics like distributed systems, consensus algorithms (like Raft), and data structures. Currently, I’m working on projects called MIT-6.5840.👨‍💻
-
-- I’m always up for a challenge and love solving complex problems.
-
-- My next big step is diving into Artificial Intelligence🤖, where I’m excited to explore the potential of it.
-
-- I'm also a member of west2-online. Welcome everyone who is fascinated by programming to join us!!!🍺
-
-
+- My primary programming language is **Golang**, and I love diving deep into distributed systems 🏗️, consensus algorithms (especially **Raft**), and data structures 📚. 
+  
+- I’m proficient in **Docker** 🐳 and **Kubernetes** ☸️, with hands-on experience in containerization, service orchestration, and cloud-native technologies ☁️. I enjoy optimizing infrastructure to ensure scalability, reliability, and high availability 🔥.
+  
+- I thrive on solving complex problems 🧩 and constantly challenge myself to push the boundaries of high-performance computing, fault tolerance, and scalable system design 🚀.
+  
+- Besides coding, I’m an active member of **west2-online** 🤝, a vibrant community of developers passionate about programming! If you’re into programming, feel free to join us! 🍺🎉
